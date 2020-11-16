@@ -9,4 +9,10 @@ To get started create following folders in the same directory (where you place t
 2.  patch : to the extracted patches from each frame where you can find the ball
 3.  ball: to store the extracted portion of ball
 
-[![ball-tracker](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/img.png)](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/ind_pak_bb.mp4)
+[![ball-tracker](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/1.jpg)](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/ind_pak_bb.mp4)
+
+[![ball-tracker](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/2.jpg)](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/ind_pak_bb.mp4)
+
+[![ball-tracker](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/3.jpg)](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/ind_pak_bb.mp4)
+
+[![ball-tracker](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/4.jpg)](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/ind_pak_bb.mp4)
