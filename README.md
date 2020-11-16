@@ -8,3 +8,5 @@ To get started create following folders in the same directory (where you place t
 1.  frames : to store frames out of video
 2.  patch : to the extracted patches from each frame where you can find the ball
 3.  ball: to store the extracted portion of ball
+
+[![ball-tracker](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/img.png)](https://github.com/gitrohitjain/ball-tracker-with-opencv/blob/main/ind_pak_bb.mp4)
